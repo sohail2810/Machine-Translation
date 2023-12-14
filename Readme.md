@@ -70,7 +70,7 @@ SVD Results:
    4. ROUGE-L score: `48.27`
    
 
-   ![A visualization of SVD results](SVD_vis.png "SVD")
+   ![A visualization of SVD results](images/SVD_vis.png "SVD")
 
 LSTM with Attention Results:
    1. BLEU score: `50.18` 
@@ -79,7 +79,7 @@ LSTM with Attention Results:
    4. ROUGE-L score: `73.94`
 
 
-   ![A visualization of LSTM with Attention results](attention.png "LSTM with Attention")
+   ![A visualization of LSTM with Attention results](images/attention.png "LSTM with Attention")
 
 SOTA(MarianMT) Results:
    1. BLEU score: `58.47` 
@@ -87,7 +87,7 @@ SOTA(MarianMT) Results:
    3. ROUGE-2 score: `64.47`
    4. ROUGE-L score: `79.31`
 
-   ![An example of SOTA results](SOTA.png "SOTA examples")
+   ![An example of SOTA results](images/SOTA.png "SOTA examples")
    
 A comparison of the results from above methods is shown here
 | Model                  | BLEU  | ROGUE-1 | ROGUE-2 | ROGUE-L |
